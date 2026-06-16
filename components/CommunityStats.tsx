@@ -4,9 +4,9 @@ import { useEffect, useRef, useState } from "react";
 import { FadeIn } from "./FadeIn";
 
 const stats = [
-  { value: 2400, suffix: "+", label: "Members attended" },
-  { value: 45, suffix: "+", label: "Languages spoken" },
-  { value: 180, suffix: "+", label: "Events hosted" },
+  { value: 50, suffix: "+", label: "Members attended" },
+  { value: 10, suffix: "+", label: "Languages spoken" },
+  { value: 10, suffix: "+", label: "Events hosted" },
 ];
 
 function AnimatedNumber({
