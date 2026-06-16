@@ -11,7 +11,7 @@ export const events: Event[] = [
     name: "Language Exchange",
     location: "Americano Classico, Blackfriars",
     date: "Wed 17 Jun",
-    time: "6:30 PM - 9:30 PM@",
+    time: "6:30 PM - 9 PM",
     languages: ["English", "Spanish", "French", "Italian"],
   },
   {
