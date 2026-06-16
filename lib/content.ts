@@ -8,11 +8,11 @@ export type Event = {
 
 export const events: Event[] = [
   {
-    name: "Polyglot Social Evening",
-    location: "The Churchill, Paddington",
-    date: "Sat 28 Jun",
-    time: "7:00 PM",
-    languages: ["English", "Spanish", "French"],
+    name: "Language Exchange",
+    location: "Americano Classico, Blackfriars",
+    date: "Wed 17 Jun",
+    time: "6:30 PM - 9:30 PM@",
+    languages: ["English", "Spanish", "French", "Italian"],
   },
   {
     name: "French & Spanish Exchange",
