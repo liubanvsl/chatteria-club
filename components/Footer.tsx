@@ -1,23 +1,13 @@
 const socialLinks = [
   {
     label: "Instagram",
-    href: "https://instagram.com",
+    href: "https://instagram.com/chatteriaclub",
     icon: InstagramIcon,
   },
   {
-    label: "Facebook",
-    href: "https://facebook.com",
-    icon: FacebookIcon,
-  },
-  {
     label: "Meetup",
-    href: "https://meetup.com",
+    href: "https://meetup.com/chatteria-club",
     icon: MeetupIcon,
-  },
-  {
-    label: "LinkedIn",
-    href: "https://linkedin.com",
-    icon: LinkedInIcon,
   },
 ];
 
