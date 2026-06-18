@@ -19,19 +19,18 @@ export function Hero() {
 
       <div className="relative mx-auto max-w-6xl">
         <p className="animate-fade-up mb-6 text-xs font-semibold uppercase tracking-[0.25em] text-accent">
-          London · Language Exchange
+          Based in London · Connected worldwide
         </p>
 
         <h1 className="animate-fade-up animation-delay-100 font-display text-[clamp(2.75rem,8vw,5.5rem)] font-medium leading-[1.05] tracking-tight text-foreground">
-          Meet. Speak. Connect.
+          Meet. Speak. Connect. Repeat.
         </h1>
 
         <p
           id="about"
           className="scroll-mt-24 animate-fade-up animation-delay-200 mt-6 max-w-xl text-lg leading-relaxed text-muted sm:mt-8 sm:text-xl"
         >
-          Join London&apos;s international community for language exchange
-          events and cultural experiences.
+        Join London's language exchange and international community. Meet new people, practice languages, and discover cultural events in a welcoming social atmosphere.
         </p>
 
         <div className="animate-fade-up animation-delay-300 mt-10 flex flex-wrap gap-3 sm:mt-12">
@@ -48,7 +47,7 @@ export function Hero() {
 
         <div className="animate-fade-in animation-delay-500 mt-16 flex items-center gap-6 border-t border-border-subtle pt-8 sm:mt-20">
           <div className="flex -space-x-2">
-            {["ES", "FR", "JP", "DE", "IT"].map((lang) => (
+            {["ES", "EN","FR", "RU", "JP", "DE", "IT"].map((lang) => (
               <span
                 key={lang}
                 className="flex h-9 w-9 items-center justify-center rounded-full border-2 border-background bg-surface text-[10px] font-semibold text-muted"

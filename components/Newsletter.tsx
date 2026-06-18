@@ -12,7 +12,7 @@ const faqs = [
   {
     question: "Are events free to attend?",
     answer:
-      "Most meetups are free. Some special events may have a small venue fee, always shown upfront.",
+      "Yes! Attendance is free. We simply ask guests to support the venue by ordering a drink, helping us maintain our partnership with the spaces that host our events.",
   },
   {
     question: "How do I find out about new events?",

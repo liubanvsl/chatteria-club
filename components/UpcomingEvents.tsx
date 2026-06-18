@@ -16,7 +16,7 @@ export function UpcomingEvents() {
                 Upcoming Events
               </p>
               <h2 className="font-display text-4xl font-medium tracking-tight text-foreground sm:text-5xl">
-                This month in London
+                Summer in London
               </h2>
             </div>
             <p className="max-w-xs text-sm leading-relaxed text-muted">

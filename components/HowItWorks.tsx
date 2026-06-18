@@ -5,7 +5,7 @@ const steps = [
     number: "01",
     title: "Choose your languages",
     description:
-      "Pick the flags of the languages you'd like to practice and start a conversation. It's the easiest way to find the right people to connect with.",
+      "Pick the flags of the languages you'd like to practice and start a conversation",
     icon: PeopleIcon,
   },
   {
@@ -19,7 +19,7 @@ const steps = [
     number: "03",
     title: "Relax and enjoy",
     description:
-      "Feel free to take a break, grab a drink, and be kind and respectful to everyone. We're here to create a welcoming space for all.",
+      "Feel free to take a break, grab a drink, and be kind and respectful to everyone. We're here to create a welcoming space for all!",
     icon: CultureIcon,
   },
 ];
