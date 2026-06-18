@@ -3,23 +3,23 @@ import { FadeIn } from "./FadeIn";
 const steps = [
   {
     number: "01",
-    title: "Meet people",
+    title: "Choose your languages",
     description:
-      "Arrive at a relaxed venue and join a table. Everyone is here to connect — introductions happen naturally.",
+      "Pick the flags of the languages you'd like to practice and start a conversation. It's the easiest way to find the right people to connect with.",
     icon: PeopleIcon,
   },
   {
     number: "02",
-    title: "Practice languages",
+    title: "Move between tables",
     description:
-      "Switch between languages in small groups. Native speakers and learners share the same space, at every level.",
+      "Change tables throughout the evening, meet new people, and enjoy conversations in different languages and groups",
     icon: LanguageIcon,
   },
   {
     number: "03",
-    title: "Discover cultures",
+    title: "Relax and enjoy",
     description:
-      "Go beyond vocabulary. Hear stories, taste food, and experience traditions from around the world.",
+      "Feel free to take a break, grab a drink, and be kind and respectful to everyone. We're here to create a welcoming space for all.",
     icon: CultureIcon,
   },
 ];
